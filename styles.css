@@ -267,4 +267,12 @@ img {
     main {
         padding: 0 10px;
     }
+    .responsive-image {
+    width: 100%;             
+    max-width: 600px;        
+    height: auto;            
+    display: block;
+    margin: 10px auto;       
+    border-radius: 10px;  
+}
 }
